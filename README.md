@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Acourages
-- 👀 I’m interested in python and ML 
+- 👀 I’m interested in python and AI 
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 u can contact me on instagram @arshan_hsr
