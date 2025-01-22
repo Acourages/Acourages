@@ -22,7 +22,7 @@
 ---
 
 ## 📈 GitHub Stats:
-![Arshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Arshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acourages&show_icons=true&theme=radical)
 
 ---
 
