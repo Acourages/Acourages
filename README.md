@@ -17,7 +17,7 @@
 
 ## 🌟 Featured Projects:
 - **[To-Do List App](https://github.com/your-username/todo-app)**: A desktop task manager with motivational features.
-- **[Another Project](https://github.com/your-username/another-project)**: Describe this one briefly here!
+- **[Multilingual-TelegramBot_Trade](https://github.com/your-username/another-project)**: Describe this one briefly here!
 
 ---
 
