@@ -18,11 +18,11 @@
 ---
 
 ## 🌟 Featured Projects:
-- **[To-Do List App](https://github.com/Acourages/todo-app)**: A desktop task manager with motivational features.
 - **[Multilingual-TelegramBot_Trade](https://github.com/Acourages/telegram-trade-bot)**: A powerful multilingual Telegram bot that integrates with multiple cryptocurrency exchanges, providing real-time market data, automated trade execution, and risk management features like stop-loss and take-profit.
 - **[CryptoDataCollector](https://github.com/Acourages/crypto-data-collector)**: A robust tool for aggregating cryptocurrency market data from multiple exchanges, including Binance. It offers a unified API interface for fetching trading symbols, price information, and historical kline (candlestick) data.
 - **[CityCare Clinic Telegram Bot](https://github.com/Acourages/citycare-telegram-bot)**: A healthcare assistant bot for **CityCare Clinic Dubai**, enabling users to book appointments, get medical information, receive reminders, and access multilingual support.
-
+- **[CineMate](https://github.com/Acourages/CineMate)**: A personal movie recommendation bot on Telegram that helps users discover new movies based on their preferred genres, providing detailed information about each selection.
+-  **[To-Do List App](https://github.com/Acourages/todo-app)**: A desktop task manager with motivational features.
 ---
 
 ## 📈 GitHub Stats:
