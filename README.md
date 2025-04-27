@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Arshan!
+# 👋 Hey, I'm Arshan!
 
-🎓 **Passionate Python Developer** | 🌍 **Open Source Enthusiast** | 💡 **Lifelong Learner**
+A passionate Python developer with a love for clean code, minimalist design, and solving real-world problems through tech.
 
 ---
 
-## 🛠️ Technologies I Work With:
+## 🛠️ Technologies I Work With
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -15,23 +17,55 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-rds&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-5B2E91?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+</div>
 
 ---
 
-## 🌟 Featured Projects:
-- **[Multilingual-TelegramBot_Trade](https://github.com/Acourages/telegram-trade-bot)**: A powerful multilingual Telegram bot that integrates with multiple cryptocurrency exchanges, providing real-time market data, automated trade execution, and risk management features like stop-loss and take-profit.
-- **[CryptoDataCollector](https://github.com/Acourages/crypto-data-collector)**: A robust tool for aggregating cryptocurrency market data from multiple exchanges, including Binance. It offers a unified API interface for fetching trading symbols, price information, and historical kline (candlestick) data.
-- **[CityCare Clinic Telegram Bot](https://github.com/Acourages/citycare-telegram-bot)**: A healthcare assistant bot for **CityCare Clinic Dubai**, enabling users to book appointments, get medical information, receive reminders, and access multilingual support.
-- **[CineMate](https://github.com/Acourages/CineMate)**: A personal movie recommendation bot on Telegram that helps users discover new movies based on their preferred genres, providing detailed information about each selection.
-- **[PHP Weather App](https://github.com/Acourages/WeatherNow-PHP)**: A simple PHP-based weather app that fetches real-time weather data using the OpenWeatherMap API, displaying temperature, humidity, wind speed, and conditions.
--  **[To-Do List App](https://github.com/Acourages/todo-app)**: A desktop task manager with motivational features.
+## 🚀 Main Repositories
 
+### 🛡️ MyTelegram_Bots
+> A collection of advanced, real-world Telegram bots built with Python.
 
-## 📈 GitHub Stats:
-![Arshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acourages&show_icons=true&theme=radical)
+- **[Multilingual-TelegramBot_Trade](https://github.com/Acourages/telegram-trade-bot)**  
+  Automates crypto trading with multilingual support, real-time market data, and risk management.
+- **[CryptoDataCollector](https://github.com/Acourages/crypto-data-collector)**  
+  Aggregates live cryptocurrency market data across multiple exchanges through a unified API.
+- **[CityCare Clinic Bot](https://github.com/Acourages/citycare-telegram-bot)**  
+  A healthcare assistant bot for CityCare Clinic Dubai, enabling bookings and information access.
+- **[CineMate](https://github.com/Acourages/CineMate)**  
+  Telegram bot offering personalized movie recommendations based on user-selected genres.
 
 ---
 
-### Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshan-hosseinlar)  
+### 🔧 MyPHP_Lab
+> A space for lightweight PHP-based mini-projects and experiments.
+
+- **[WeatherNow-PHP](https://github.com/Acourages/MyPHP_Lab/tree/main/WeatherNow-PHP)**  
+  Real-time weather app powered by OpenWeatherMap API and clean PHP cURL integration.
+- **[MyPHP_Website](https://github.com/Acourages/MyPHP_Lab/tree/main/MyPHP_Website)**  
+  A minimalist, multi-page portfolio website crafted with PHP and simple HTML/CSS design.
+
+---
+
+## 📈 GitHub Highlights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Acourages&show_icons=true&theme=radical" alt="Arshan's GitHub stats" width="60%"/>
+</p>
+
+---
+
+## 🌐 Let's Connect
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arshan-hosseinlar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://your-portfolio-link.com)
+
+</div>
+
+---
+
+<p align="center">
+  🚀 Always building. Always learning.
+</p>
